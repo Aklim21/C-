@@ -1,0 +1,15 @@
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.deps.json
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.runtimeconfig.json
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.runtimeconfig.dev.json
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.dll
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/bin/Debug/net5.0/ref/HelloCS.dll
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.pdb
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.csprojAssemblyReference.cache
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.AssemblyInfoInputs.cache
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.AssemblyInfo.cs
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.dll
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/obj/Debug/net5.0/ref/HelloCS.dll
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.pdb
+/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.genruntimeconfig.cache
