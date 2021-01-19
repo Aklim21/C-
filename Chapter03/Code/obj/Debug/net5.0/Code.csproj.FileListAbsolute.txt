@@ -1,0 +1,15 @@
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/bin/Debug/net5.0/Code.deps.json
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/bin/Debug/net5.0/Code.runtimeconfig.json
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/bin/Debug/net5.0/Code.runtimeconfig.dev.json
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/bin/Debug/net5.0/Code.dll
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/bin/Debug/net5.0/ref/Code.dll
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/bin/Debug/net5.0/Code.pdb
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/obj/Debug/net5.0/Code.csprojAssemblyReference.cache
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/obj/Debug/net5.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/obj/Debug/net5.0/Code.AssemblyInfoInputs.cache
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/obj/Debug/net5.0/Code.AssemblyInfo.cs
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/obj/Debug/net5.0/Code.csproj.CoreCompileInputs.cache
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/obj/Debug/net5.0/Code.dll
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/obj/Debug/net5.0/ref/Code.dll
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/obj/Debug/net5.0/Code.pdb
+/Users/akj01/Documents/GitHub/C#/Chapter03/Code/obj/Debug/net5.0/Code.genruntimeconfig.cache
