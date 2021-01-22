@@ -1,0 +1,15 @@
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/bin/Debug/net5.0/WritingFunctions.deps.json
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/bin/Debug/net5.0/WritingFunctions.runtimeconfig.json
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/bin/Debug/net5.0/WritingFunctions.runtimeconfig.dev.json
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/bin/Debug/net5.0/WritingFunctions.dll
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/bin/Debug/net5.0/ref/WritingFunctions.dll
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/bin/Debug/net5.0/WritingFunctions.pdb
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.csprojAssemblyReference.cache
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.AssemblyInfoInputs.cache
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.AssemblyInfo.cs
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.dll
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/obj/Debug/net5.0/ref/WritingFunctions.dll
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.pdb
+/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.genruntimeconfig.cache
