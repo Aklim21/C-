@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/akj01/.nuget/packages/": {}
+    "C:\\Users\\Anthony\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akj01/Documents/GitHub/C#/Chapter02/Arguments/Arguments.csproj",
+      "projectUniqueName": "C:\\GitHub\\CSharp\\C-\\Chapter02\\Arguments\\Arguments.csproj",
       "projectName": "Arguments",
-      "projectPath": "/Users/akj01/Documents/GitHub/C#/Chapter02/Arguments/Arguments.csproj",
-      "packagesPath": "/Users/akj01/.nuget/packages/",
-      "outputPath": "/Users/akj01/Documents/GitHub/C#/Chapter02/Arguments/obj/",
+      "projectPath": "C:\\GitHub\\CSharp\\C-\\Chapter02\\Arguments\\Arguments.csproj",
+      "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\CSharp\\C-\\Chapter02\\Arguments\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/akj01/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

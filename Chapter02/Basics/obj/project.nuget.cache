@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tkrLmb3U3vRjtwxMT9whcEbP0gciRiPscy3g6rySLKpFcD160I9MvsC7HYFVOWR2yMeQaTv+cFhH4vW+7wIQAw==",
+  "dgSpecHash": "G920Ot6liCu3mWGVYzb1xW4bHNgQacwil2jhbeY6kjmPlTJq5OppIv2nx01cXM1nY68dg1XQwARcBs/othQayA==",
   "success": true,
-  "projectFilePath": "/Users/akj01/Documents/GitHub/C#/Chapter02/Basics/Basics.csproj",
+  "projectFilePath": "C:\\GitHub\\CSharp\\C-\\Chapter02\\Basics\\Basics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

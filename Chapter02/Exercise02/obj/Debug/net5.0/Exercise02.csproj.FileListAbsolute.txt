@@ -1,0 +1,16 @@
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\obj\Debug\net5.0\Exercise02.csprojAssemblyReference.cache
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\obj\Debug\net5.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\obj\Debug\net5.0\Exercise02.AssemblyInfoInputs.cache
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\obj\Debug\net5.0\Exercise02.AssemblyInfo.cs
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\obj\Debug\net5.0\Exercise02.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\bin\Debug\net5.0\Exercise02.exe
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\bin\Debug\net5.0\Exercise02.deps.json
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\bin\Debug\net5.0\Exercise02.runtimeconfig.json
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\bin\Debug\net5.0\Exercise02.runtimeconfig.dev.json
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\bin\Debug\net5.0\Exercise02.dll
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\bin\Debug\net5.0\ref\Exercise02.dll
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\bin\Debug\net5.0\Exercise02.pdb
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\obj\Debug\net5.0\Exercise02.dll
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\obj\Debug\net5.0\ref\Exercise02.dll
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\obj\Debug\net5.0\Exercise02.pdb
+C:\GitHub\CSharp\C-\Chapter02\Exercise02\obj\Debug\net5.0\Exercise02.genruntimeconfig.cache
