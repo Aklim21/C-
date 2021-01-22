@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\CSharp\\C-\\Chapter04\\WritingFunctions\\WritingFunctions.csproj": {}
+    "C:\\GitHub\\CSharp\\C-\\Chapter04\\Debugging\\Debugging.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\CSharp\\C-\\Chapter04\\WritingFunctions\\WritingFunctions.csproj": {
+    "C:\\GitHub\\CSharp\\C-\\Chapter04\\Debugging\\Debugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\CSharp\\C-\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
-        "projectName": "WritingFunctions",
-        "projectPath": "C:\\GitHub\\CSharp\\C-\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
+        "projectUniqueName": "C:\\GitHub\\CSharp\\C-\\Chapter04\\Debugging\\Debugging.csproj",
+        "projectName": "Debugging",
+        "projectPath": "C:\\GitHub\\CSharp\\C-\\Chapter04\\Debugging\\Debugging.csproj",
         "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\CSharp\\C-\\Chapter04\\WritingFunctions\\obj\\",
+        "outputPath": "C:\\GitHub\\CSharp\\C-\\Chapter04\\Debugging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
