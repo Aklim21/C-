@@ -1,5 +1,6 @@
 ﻿using System;
 using static System.Console;
+using System.Collections.Generic;
 
 namespace Code
 {
@@ -7,31 +8,31 @@ namespace Code
     {
         static void Main(string[] args)
         {
- A_label:
-         string number = "Six";
-         WriteLine($"My random number is {number}");
 
-      switch (number)
-     {
-       case "one":
-         WriteLine("One");
-         break; // jumps to end of switch statement
-       case "two":
-         WriteLine("Two");
-         goto case "two";
-       case "three":
-       case "four":
-         WriteLine("Three or four");
-         goto case "one";
-       case "six":
-         // go to sleep for half a second
-         System.Threading.Thread.Sleep(500);
-         goto A_label;
-       default:
-         WriteLine("Default");
-         break;
-     } // end of switch statement
+              WriteLine("Enter Number 1");
+              string one = Console.ReadLine();
+              WriteLine("Enter Number 2");
+              string two = Console.ReadLine();
 
+              try {
+                double num_one = double.Parse(one);
+                double num_two = double.Parse(two);
+                if (num_one >0 && num_one <255 && num_two >0 && num_two <255){
+                  WriteLine(num_one / num_two);
+                }
+                else {
+                  WriteLine("Values outside valid range.");
+                }
+              }
+              catch (FormatException) { 
+                      WriteLine("The number you entered is not a valid number format."); 
+                    }
+              catch (Exception ex) {    
+                      WriteLine($"{ex.GetType()} says {ex.Message}");        
+                    }
+
+              }
         }
     }
-}
+
+
