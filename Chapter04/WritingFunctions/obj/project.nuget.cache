@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "agL/f7V/+BDpg7PbbBPdtuk2BESrYgkRkhnbeWE3+M6vSWea42UQgD1gHRJVPILlF2UgOgqppAarNBeXwh/3Xw==",
+  "dgSpecHash": "KqaqrfyIUJxDzb1JBQnPl9VdjfjozJDYVf6qiwGCzTy6eQwmmsAYZ26sCS1vZhDWQnC7IIX2wIZNAU/L+mg9WA==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\CSharp\\C-\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
+  "projectFilePath": "/Users/akj01/Documents/GitHub/C#/Chapter04/WritingFunctions/WritingFunctions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

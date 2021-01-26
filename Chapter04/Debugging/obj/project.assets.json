@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Anthony\\.nuget\\packages\\": {}
+    "/Users/akj01/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\CSharp\\C-\\Chapter04\\Debugging\\Debugging.csproj",
+      "projectUniqueName": "/Users/akj01/Documents/GitHub/C#/Chapter04/Debugging/Debugging.csproj",
       "projectName": "Debugging",
-      "projectPath": "C:\\GitHub\\CSharp\\C-\\Chapter04\\Debugging\\Debugging.csproj",
-      "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\CSharp\\C-\\Chapter04\\Debugging\\obj\\",
+      "projectPath": "/Users/akj01/Documents/GitHub/C#/Chapter04/Debugging/Debugging.csproj",
+      "packagesPath": "/Users/akj01/.nuget/packages/",
+      "outputPath": "/Users/akj01/Documents/GitHub/C#/Chapter04/Debugging/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/akj01/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

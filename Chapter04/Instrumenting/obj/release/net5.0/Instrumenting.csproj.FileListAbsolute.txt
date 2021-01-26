@@ -1,0 +1,15 @@
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/bin/release/net5.0/Instrumenting.deps.json
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/bin/release/net5.0/Instrumenting.runtimeconfig.json
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/bin/release/net5.0/Instrumenting.runtimeconfig.dev.json
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/bin/release/net5.0/Instrumenting.dll
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/bin/release/net5.0/ref/Instrumenting.dll
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/bin/release/net5.0/Instrumenting.pdb
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/obj/release/net5.0/Instrumenting.csprojAssemblyReference.cache
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/obj/release/net5.0/Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/obj/release/net5.0/Instrumenting.AssemblyInfoInputs.cache
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/obj/release/net5.0/Instrumenting.AssemblyInfo.cs
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/obj/release/net5.0/Instrumenting.csproj.CoreCompileInputs.cache
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/obj/release/net5.0/Instrumenting.dll
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/obj/release/net5.0/ref/Instrumenting.dll
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/obj/release/net5.0/Instrumenting.pdb
+/Users/akj01/Documents/GitHub/C#/Chapter04/Instrumenting/obj/release/net5.0/Instrumenting.genruntimeconfig.cache
