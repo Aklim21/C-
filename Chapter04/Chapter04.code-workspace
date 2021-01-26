@@ -11,6 +11,21 @@
 		},
 		{
 			"path": "Instrumenting"
+		},
+		{
+			"path": "CalculatorLib"
+		},
+		{
+			"path": "CalculatorLibUnitTests"
+		},
+		{
+			"path": "PrimeFactorsLib"
+		},
+		{
+			"path": "PrimeFactorsLibUnitTests"
+		},
+		{
+			"path": "PrimeFactors"
 		}
 	]
 }
