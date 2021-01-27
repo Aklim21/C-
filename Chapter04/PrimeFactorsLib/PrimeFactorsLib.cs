@@ -1,23 +1,46 @@
 ﻿using System;
+using static System.Console;
 
 namespace PrimeFactorsLib
 {
-    public class PrimeFactors
+    public class PrimeFunctions
     {
-        public double primeNum(double a)
+        public static bool isPrime(int number)
         {
-            if(i = 1 || i = 0)
+    
+            if (number <= 1) return false;
+            if (number == 2 || number == 3 || number == 5) return true;
+            if (number % 2 == 0 || number % 3 == 0 || number % 5 == 0) return false;
+
+            var boundary = (int)Math.Floor(Math.Sqrt(number));
+
+            for(int i=6 ; i <= boundary ; i+=6)
             {
-                Console.WriteLine(num1 + " is not prime number");
-                Console.ReadLine();
+                if (number % (i + 1) == 0 || number % (i + 5) == 0)
+                {
+                    return false;
+                }
             }
+            return true;    
+        }
 
-            for(i=a ; i>0 ; i--)
-            {
+        public static string getPrimeFact(int number)
+        {
 
- 
-
-            }
+            string facts = new string [];
+                for(int i = (number-1) ; i <1 ; i--)
+                {
+                    if (isPrime(i))
+                    {
+                        if(number % i ==0)
+                        {
+                            number /= i;
+                            facts.Add(i);
+                            i++;
+                        }
+                    }
+                }
+            
         }
     }
 }
