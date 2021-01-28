@@ -7,31 +7,18 @@ namespace PrimeFactorsLibUnitTests
     public class IsPrimeTest
     {
         [Fact]
-        public void Test1()
+        public void testPrime1()
         {
             //arrange: 
-            double a = 2;
-            double b = 2;
-            double expected = 4;
-            var calc = new Calculator();
+            int i = 5;
+            bool expected = true;
+            var checkPrime = new isPrime();
 
             //act:
-            double actual = calc.Add(a,b);
+            bool actual = CheckPrime.Add(i);
 
             //assert: 
             Assert.Equal(expected, actual); 
-        }
-
-        [Fact]
-        public void Test2()
-        {
-
-        }   
-        
-        [Fact]
-        public void Test3()
-        {
-
-        }      
+        }    
     }
 }

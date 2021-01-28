@@ -20,8 +20,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="..\PrimeFactorsLib\PrimeFactorsLib.csproj"/>
-    <PackageReference Include="..\PrimeFactors\PrimeFactors.csproj"/>
+    <PackageReference 
+      Include= "..\PrimeFactorsLib\PrimeFactorsLib.csproj"/>
+    <PackageReference 
+      Include= "..\PrimeFactors\PrimeFactors.csproj"/>
   </ItemGroup>
 
 </Project>
+

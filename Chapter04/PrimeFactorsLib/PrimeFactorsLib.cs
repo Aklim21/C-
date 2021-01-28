@@ -1,5 +1,7 @@
 ﻿using System;
 using static System.Console;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace PrimeFactorsLib
 {
@@ -24,22 +26,26 @@ namespace PrimeFactorsLib
             return true;    
         }
 
-        public static string getPrimeFact(int number)
+        public static int getPrimeFact(int number)
         {
-
-            string facts = new string [];
-                for(int i = (number-1) ; i <1 ; i--)
+            List<string> facts = new List<string>();
+            for(int i = (number-1) ; i > 1 ; i--)
+            {
+                if (isPrime(i))
                 {
-                    if (isPrime(i))
+                    while(number % i ==0)
                     {
-                        if(number % i ==0)
-                        {
-                            number /= i;
-                            facts.Add(i);
-                            i++;
-                        }
+                        number /= i;
+                        facts.Add(i.ToString());
                     }
+                    continue;
                 }
+                else
+                {
+                    continue;
+                }
+            }
+            WriteLine(string.Join("\t", facts));
             
         }
     }

@@ -40,6 +40,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "..\\PrimeFactorsLib\\PrimeFactorsLib.csproj": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "..\\PrimeFactors\\PrimeFactors.csproj": {
+              "target": "Package",
+              "version": "(, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.7.1, )"
