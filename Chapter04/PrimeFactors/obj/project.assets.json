@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "PrimeFactorsLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PrimeFactorsLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrimeFactorsLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PrimeFactorsLib/1.0.0": {
+      "type": "project",
+      "path": "../PrimeFactorsLib/PrimeFactorsLib.csproj",
+      "msbuildProject": "../PrimeFactorsLib/PrimeFactorsLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "PrimeFactorsLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Anthony\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\GitHub\\CSharp\\C-\\Chapter04\\PrimeFactorsLib\\PrimeFactorsLib.csproj": {
+              "projectPath": "C:\\GitHub\\CSharp\\C-\\Chapter04\\PrimeFactorsLib\\PrimeFactorsLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

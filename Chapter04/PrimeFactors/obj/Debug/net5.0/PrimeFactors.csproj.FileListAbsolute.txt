@@ -14,3 +14,6 @@ C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.dll
 C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\ref\PrimeFactors.dll
 C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.pdb
 C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.genruntimeconfig.cache
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\bin\Debug\net5.0\PrimeFactorsLib.dll
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\bin\Debug\net5.0\PrimeFactorsLib.pdb
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.csproj.CopyComplete
