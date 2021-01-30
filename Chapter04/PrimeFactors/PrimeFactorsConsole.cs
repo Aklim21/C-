@@ -1,4 +1,6 @@
 ﻿using System;
+using static System.Console;
+using PrimeFactorsLib;
 
 namespace PrimeFactors
 {
@@ -6,7 +8,9 @@ namespace PrimeFactors
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WriteLine("Enter a value:");
+            int input = int.TryParse(ReadLine(),out int);
+
         }
     }
 }

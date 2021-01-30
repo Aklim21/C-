@@ -41,11 +41,25 @@ namespace PrimeFactorsLibUnitTests
         {
             //arrange: 
             int i = 10;
-            string expected = ('52');
-            var checkPrime = new PrimeFunctions();
+            string expected = ("5x2");
+            var getPrime = new PrimeFunctions();
 
             //act:
-            string actual = checkPrime.isPrime(i);
+            string actual = getPrime.getPrimeFact(i);
+
+            //assert: 
+            Assert.Equal(expected, actual); 
+        }  
+        [Fact]
+        public void getPrime2()
+        {
+            //arrange: 
+            int i = 100;
+            string expected = ("5x5x2x2");
+            var getPrime = new PrimeFunctions();
+
+            //act:
+            string actual = getPrime.getPrimeFact(i);
 
             //assert: 
             Assert.Equal(expected, actual); 

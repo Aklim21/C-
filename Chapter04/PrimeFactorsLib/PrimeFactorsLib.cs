@@ -7,6 +7,11 @@ namespace PrimeFactorsLib
 {
     public class PrimeFunctions
     {
+        /// <summary>
+        /// Pass a 32-bit integer and it will return a bool stating if input was a prime number.
+        /// </summary>
+        /// <param name="number">Number is a 32-bit integer.</param>
+        /// <returns>Prime bool</returns>
         public bool isPrime(int number)
         {
     
@@ -26,18 +31,18 @@ namespace PrimeFactorsLib
             return true;    
         }
 
-        public List<string> getPrimeFact(int number)
+        public string getPrimeFact(int number)
         {
-            List<string> facts = new List<string>();
+            string facts = string.Empty;
             int x = number;
-            for(int i = (number-1) ; i > 2 ; i--)
+            for(int i = (number-1) ; i > 1 ; i--)
             {
                 if (isPrime(i))
                 {
                     while(x % i ==0)
                     {
                         x /= i;
-                        facts.Add(i.ToString());
+                        facts+=i.ToString()+"x";
                     }
                 }
                 else
@@ -45,6 +50,7 @@ namespace PrimeFactorsLib
                     continue;
                 }
             }
+            facts = facts.Remove(facts.Length-1);
             return facts;
             
         }
