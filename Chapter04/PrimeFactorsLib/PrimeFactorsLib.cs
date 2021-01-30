@@ -29,16 +29,16 @@ namespace PrimeFactorsLib
         public static int getPrimeFact(int number)
         {
             List<string> facts = new List<string>();
-            for(int i = (number-1) ; i > 1 ; i--)
+            int x = number;
+            for(int i = (number-1) ; i > 2 ; i--)
             {
                 if (isPrime(i))
                 {
-                    while(number % i ==0)
+                    while(x % i ==0)
                     {
-                        number /= i;
+                        x /= i;
                         facts.Add(i.ToString());
                     }
-                    continue;
                 }
                 else
                 {
