@@ -3,3 +3,10 @@ C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.G
 C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.AssemblyInfoInputs.cache
 C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.AssemblyInfo.cs
 C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.deps.json
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.dll
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\bin\Debug\net5.0\ref\PrimeFactorsLib.dll
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.pdb
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.dll
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\ref\PrimeFactorsLib.dll
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.pdb

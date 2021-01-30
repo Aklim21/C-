@@ -1648,6 +1648,26 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "PrimeFactors/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PrimeFactors.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrimeFactors.dll": {}
+        }
+      },
+      "PrimeFactorsLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PrimeFactorsLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrimeFactorsLib.dll": {}
+        }
       }
     }
   },
@@ -5611,13 +5631,23 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "PrimeFactors/1.0.0": {
+      "type": "project",
+      "path": "../PrimeFactors/PrimeFactors.csproj",
+      "msbuildProject": "../PrimeFactors/PrimeFactors.csproj"
+    },
+    "PrimeFactorsLib/1.0.0": {
+      "type": "project",
+      "path": "../PrimeFactorsLib/PrimeFactorsLib.csproj",
+      "msbuildProject": "../PrimeFactorsLib/PrimeFactorsLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "..\\PrimeFactorsLib\\PrimeFactorsLib.csproj",
-      "..\\PrimeFactors\\PrimeFactors.csproj",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
+      "PrimeFactors >= 1.0.0",
+      "PrimeFactorsLib >= 1.0.0",
       "coverlet.collector >= 1.3.0",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -5649,7 +5679,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\GitHub\\CSharp\\C-\\Chapter04\\PrimeFactorsLib\\PrimeFactorsLib.csproj": {
+              "projectPath": "C:\\GitHub\\CSharp\\C-\\Chapter04\\PrimeFactorsLib\\PrimeFactorsLib.csproj"
+            },
+            "C:\\GitHub\\CSharp\\C-\\Chapter04\\PrimeFactors\\PrimeFactors.csproj": {
+              "projectPath": "C:\\GitHub\\CSharp\\C-\\Chapter04\\PrimeFactors\\PrimeFactors.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -5662,14 +5699,6 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
-          "..\\PrimeFactorsLib\\PrimeFactorsLib.csproj": {
-            "target": "Package",
-            "version": "(, )"
-          },
-          "..\\PrimeFactors\\PrimeFactors.csproj": {
-            "target": "Package",
-            "version": "(, )"
-          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[16.7.1, )"
@@ -5709,45 +5738,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1604",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Project dependency ..\\PrimeFactorsLib\\PrimeFactorsLib.csproj does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
-      "libraryId": "..\\PrimeFactorsLib\\PrimeFactorsLib.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v5.0"
-      ]
-    },
-    {
-      "code": "NU1604",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Project dependency ..\\PrimeFactors\\PrimeFactors.csproj does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
-      "libraryId": "..\\PrimeFactors\\PrimeFactors.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v5.0"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package ..\\PrimeFactors\\PrimeFactors.csproj. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
-      "libraryId": "..\\PrimeFactors\\PrimeFactors.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package ..\\PrimeFactorsLib\\PrimeFactorsLib.csproj. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
-      "libraryId": "..\\PrimeFactorsLib\\PrimeFactorsLib.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  }
 }

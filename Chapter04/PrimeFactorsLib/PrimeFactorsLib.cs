@@ -7,7 +7,7 @@ namespace PrimeFactorsLib
 {
     public class PrimeFunctions
     {
-        public static bool isPrime(int number)
+        public bool isPrime(int number)
         {
     
             if (number <= 1) return false;
@@ -26,7 +26,7 @@ namespace PrimeFactorsLib
             return true;    
         }
 
-        public static int getPrimeFact(int number)
+        public List<string> getPrimeFact(int number)
         {
             List<string> facts = new List<string>();
             int x = number;
@@ -45,7 +45,7 @@ namespace PrimeFactorsLib
                     continue;
                 }
             }
-            WriteLine(string.Join("\t", facts));
+            return facts;
             
         }
     }

@@ -1,0 +1,16 @@
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\bin\Debug\net5.0\PrimeFactors.exe
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\bin\Debug\net5.0\PrimeFactors.deps.json
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\bin\Debug\net5.0\PrimeFactors.runtimeconfig.json
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\bin\Debug\net5.0\PrimeFactors.runtimeconfig.dev.json
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\bin\Debug\net5.0\PrimeFactors.dll
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\bin\Debug\net5.0\ref\PrimeFactors.dll
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\bin\Debug\net5.0\PrimeFactors.pdb
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.csprojAssemblyReference.cache
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.AssemblyInfoInputs.cache
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.AssemblyInfo.cs
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.dll
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\ref\PrimeFactors.dll
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.pdb
+C:\GitHub\CSharp\C-\Chapter04\PrimeFactors\obj\Debug\net5.0\PrimeFactors.genruntimeconfig.cache
