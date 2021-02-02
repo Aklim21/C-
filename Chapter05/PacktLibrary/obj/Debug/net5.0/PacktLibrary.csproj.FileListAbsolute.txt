@@ -1,0 +1,12 @@
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\bin\Debug\net5.0\PacktLibrary.deps.json
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\bin\Debug\net5.0\PacktLibrary.dll
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\bin\Debug\net5.0\ref\PacktLibrary.dll
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\bin\Debug\net5.0\PacktLibrary.pdb
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csprojAssemblyReference.cache
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfo.cs
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.dll
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\obj\Debug\net5.0\ref\PacktLibrary.dll
+C:\GitHub\CSharp\C-\Chapter05\PacktLibrary\obj\Debug\net5.0\PacktLibrary.pdb
