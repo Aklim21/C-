@@ -9,6 +9,8 @@ namespace Packt.Shared
         public string LastName;
         public string FirstName;
         public DateTime DateofBirth;
+        public WondersOfTheWorld FavouriteAncientWonder;
+        public WondersOfTheWorld BucketList;
 
     }
 }

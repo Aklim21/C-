@@ -26,13 +26,12 @@ namespace PeopleApp
             {
                 FirstName = "Jennifer",
                 LastName = "Jim",
-                DateofBirth = new DateTime(1954,12,27)
+                DateofBirth = new DateTime(1954,12,27),
+                FavouriteAncientWonder = WondersOfTheWorld.TempleOfArtemisAtEphesus,
+                BucketList = WondersOfTheWorld.StatueofZeusAtOlympia | WondersOfTheWorld.ColossusOfRhodes  
             };
             WriteLine(
-                format: "{0} {1} was born on {2:dd MMM yy}",
-                arg0: jen.FirstName,
-                arg1: jen.LastName,
-                arg2: jen.DateofBirth
+                $"{jen.FirstName}'s bucket list of wonders to visit is {jen.BucketList}"
             );
         }
     }
