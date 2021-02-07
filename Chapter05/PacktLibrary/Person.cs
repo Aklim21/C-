@@ -1,5 +1,5 @@
 ﻿using System;
-using static System.Console;
+using System.Collections.Generic;
 
 namespace Packt.Shared
 {
@@ -11,6 +11,9 @@ namespace Packt.Shared
         public DateTime DateofBirth;
         public WondersOfTheWorld FavouriteAncientWonder;
         public WondersOfTheWorld BucketList;
+        public List<Person> Children = new List<Person>();
+
+
 
     }
 }
