@@ -103,9 +103,12 @@ namespace PeopleApp
        
 
             var defaultThing = new Defaults();
-            WriteLine(
-                $"{defaultThing.Population}\n{defaultThing.When}\n{defaultThing.Name}\n{defaultThing.People}"
-            );
+            // WriteLine(
+            //     $"{defaultThing.Population}\n{defaultThing.When}\n{defaultThing.Name}\n{defaultThing.People}"
+            // );
+
+            ant.Print();
+            WriteLine(ant.GetOrigin());
 
         }
     }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using static System.Console;
 
 namespace Packt.Shared
 {
@@ -34,5 +35,18 @@ namespace Packt.Shared
             szHomePlanet = HomePlanet;
             dtCreatedDate = DateTime.Now;
         }
+
+        /*------------------------------------*/
+        //methods:
+        public void Print()
+        {
+            WriteLine($"{szFirstName} was born on a {dtDateofBirth:dddd}");
+
+        }
+        public string GetOrigin()
+        {
+            return ($"{szFirstName} was born on {szHomePlanet}");
+        }
+
     }
 }
