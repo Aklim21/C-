@@ -1,6 +1,6 @@
 
 
-namespace PacktLibrary
+namespace Packt.Shared
 {
     public class BankAccount
     {
