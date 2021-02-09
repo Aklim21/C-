@@ -107,8 +107,74 @@ namespace PeopleApp
             //     $"{defaultThing.Population}\n{defaultThing.When}\n{defaultThing.Name}\n{defaultThing.People}"
             // );
 
-            ant.Print();
-            WriteLine(ant.GetOrigin());
+            //Defining Methods
+            //ant.Print();
+            // WriteLine(ant.GetOrigin());
+
+            /*------------------------------------*/
+            //Exploring tuples
+            
+            (string, int) AntsFruit = ant.GetFruit(4);
+            //WriteLine($"{ant.szFirstName} got {AntsFruit.Item2} {AntsFruit.Item1}(s)!");
+
+            var Gear = Person.GetLenses();
+            // WriteLine($"{ant.szFirstName} got {Gear.quant} {Gear.lensType} lenses!");
+
+            (string lensType, int quant) = Person.GetLenses();
+            //WriteLine($"Deconstructed: {lensType},{quant}");
+
+            /*------------------------------------*/
+            //method overload
+            // WriteLine(ant.SayHello());
+            // WriteLine(ant.SayHello("Emily"));
+            // WriteLine(ant.SayHello(10));
+
+            /*------------------------------------*/
+            //optional parameters
+
+            // WriteLine(ant.OptionalParam(number: 23.5, active:false,command:"lift!"));
+            
+            /*------------------------------------*/
+            //Param control
+
+            int a = 10;
+            int b = 10;
+            int c = 10;
+
+            // WriteLine($"Before: a={a},b={b},c={c}");
+
+            Person.ParamControl(a,ref b,out c);
+            // WriteLine($"After: a={a},b={b},c={c}");
+
+            Person.outParam(out int z); //generate z varibable
+            // WriteLine(z); //print
+
+            /*--------------------------------*/
+            //Access control
+
+            var danny = new Person()
+            {
+                szFirstName = "Daniel",
+                dtDateofBirth = new DateTime(1900,01,01)
+            };
+
+            // WriteLine(danny.Origin);
+            // WriteLine(danny.greeting("Peter"));
+            // WriteLine(danny.szAge);
+
+            //setters
+            danny.szFavouriteIcecream = "chocolate";
+            //WriteLine(danny.szFavouriteIcecream);
+
+            //Complex setters
+            //danny.szFavouritePrimaryColour = "RED";
+            danny.FavouritePrimaryColour = "RED";
+
+            WriteLine($"{danny.szFirstName}'s favourite primary colour is {danny.FavouritePrimaryColour}.");
+
+
+
+
 
         }
     }
