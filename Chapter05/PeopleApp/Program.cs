@@ -172,7 +172,14 @@ namespace PeopleApp
 
             WriteLine($"{danny.szFirstName}'s favourite primary colour is {danny.FavouritePrimaryColour}.");
 
+            /*--------------------------------*/
+            //Index control
 
+            ant.Children.Add(new Person{szFirstName = "David" });
+            ant.Children.Add(new Person{szFirstName = "Goliath" });
+
+            WriteLine(ant.Children[0].szFirstName);
+            WriteLine(ant.Children[1].szFirstName);
 
 
 
