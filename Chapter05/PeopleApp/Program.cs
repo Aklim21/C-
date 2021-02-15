@@ -170,7 +170,7 @@ namespace PeopleApp
             //danny.szFavouritePrimaryColour = "RED";
             danny.FavouritePrimaryColour = "RED";
 
-            WriteLine($"{danny.szFirstName}'s favourite primary colour is {danny.FavouritePrimaryColour}.");
+            //WriteLine($"{danny.szFirstName}'s favourite primary colour is {danny.FavouritePrimaryColour}.");
 
             /*--------------------------------*/
             //Index control
