@@ -10,3 +10,15 @@ C:\GitHub\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\Ch06_Library.csproj.
 C:\GitHub\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\Ch06_Library.dll
 C:\GitHub\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\ref\Ch06_Library.dll
 C:\GitHub\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\Ch06_Library.pdb
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\bin\Debug\net5.0\Ch06_Library.deps.json
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\bin\Debug\net5.0\Ch06_Library.dll
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\bin\Debug\net5.0\ref\Ch06_Library.dll
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\bin\Debug\net5.0\Ch06_Library.pdb
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\Ch06_Library.csprojAssemblyReference.cache
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\Ch06_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\Ch06_Library.AssemblyInfoInputs.cache
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\Ch06_Library.AssemblyInfo.cs
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\Ch06_Library.csproj.CoreCompileInputs.cache
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\Ch06_Library.dll
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\ref\Ch06_Library.dll
+C:\Git\CSharp\C-\Chapter06\Ch06_Library\obj\Debug\net5.0\Ch06_Library.pdb

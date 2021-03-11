@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\CSharp\\C-\\Chapter06\\Ch06_Library\\Ch06_Library.csproj": {}
+    "C:\\Git\\CSharp\\C-\\Chapter06\\Ch06_Library\\Ch06_Library.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\CSharp\\C-\\Chapter06\\Ch06_Library\\Ch06_Library.csproj": {
+    "C:\\Git\\CSharp\\C-\\Chapter06\\Ch06_Library\\Ch06_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\CSharp\\C-\\Chapter06\\Ch06_Library\\Ch06_Library.csproj",
+        "projectUniqueName": "C:\\Git\\CSharp\\C-\\Chapter06\\Ch06_Library\\Ch06_Library.csproj",
         "projectName": "Ch06_Library",
-        "projectPath": "C:\\GitHub\\CSharp\\C-\\Chapter06\\Ch06_Library\\Ch06_Library.csproj",
-        "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\CSharp\\C-\\Chapter06\\Ch06_Library\\obj\\",
+        "projectPath": "C:\\Git\\CSharp\\C-\\Chapter06\\Ch06_Library\\Ch06_Library.csproj",
+        "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\CSharp\\C-\\Chapter06\\Ch06_Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

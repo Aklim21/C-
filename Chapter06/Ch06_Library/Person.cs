@@ -5,7 +5,7 @@ using static System.Console;
 
 namespace Ch06_Library
 {
-    public class Person
+    public partial class Person
     {
         //Fields
         public string szName;

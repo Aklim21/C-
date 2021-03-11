@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/akj01/.nuget/packages/": {}
+    "C:\\Users\\antho\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/HelloCS.csproj",
+      "projectUniqueName": "C:\\Git\\CSharp\\C-\\Chapter01\\HelloCS\\HelloCS.csproj",
       "projectName": "HelloCS",
-      "projectPath": "/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/HelloCS.csproj",
-      "packagesPath": "/Users/akj01/.nuget/packages/",
-      "outputPath": "/Users/akj01/Documents/GitHub/C#/Chapter01/HelloCS/obj/",
+      "projectPath": "C:\\Git\\CSharp\\C-\\Chapter01\\HelloCS\\HelloCS.csproj",
+      "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
+      "outputPath": "C:\\Git\\CSharp\\C-\\Chapter01\\HelloCS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/akj01/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

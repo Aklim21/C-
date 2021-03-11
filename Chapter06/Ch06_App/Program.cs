@@ -57,13 +57,68 @@ namespace Ch06_App
 
             /*----------------------------------*/
             //Set Events and delegates
-            ant.Shout = ant_Shout;
-            ant.Poke();
-            ant.Poke();
-            ant.Poke();
-            ant.Poke();
+            // ant.Shout = ant_Shout;
+            // ant.Poke();
+            // ant.Poke();
+            // ant.Poke();
+            // ant.Poke();
+
+
+            /*--------------------------------*/
+            //Interfaces
+
+
+            Person[] people = 
+            {
+                new Person {szName = "Simon"},
+                new Person {szName = "Jenny"},
+                new Person {szName = "Paul"},
+                new Person {szName = "Richie"}
+            };
+            WriteLine("Initial list of people:");
+            foreach(var person in people)
+            {
+                WriteLine($"{person.szName}");            
+            }
+            Array.Sort(people);
+            foreach(var person in people)
+            {
+                WriteLine($"{person.szName}");            
+            }
+
+
+
+
+
+
+
 
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         public static void ant_Shout(object sender, EventArgs e)
         {
             Person p = (Person)sender;
