@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y7GoWgoMpR/EEj2Ot7w2gB4m0MYYeXTFlgO6uhTvAkCbIuTFgtCiSmOCAy1H/eeZ11IoAicibN5uvTth5LAi2Q==",
+  "dgSpecHash": "rZWW1ZV060v4539vGE+hojJXWyJCmTY6EBhRTH7owbC4ksREf44bBegylXqzb0ZjNEAV3DfixQxEdi285poQIw==",
   "success": true,
-  "projectFilePath": "C:\\Git\\CSharp\\C-\\Chapter06\\Ch06_App\\Ch06_App.csproj",
+  "projectFilePath": "C:\\GitHub\\CSharp\\C-\\Chapter06\\Ch06_App\\Ch06_App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

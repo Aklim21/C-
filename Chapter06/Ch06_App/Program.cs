@@ -81,6 +81,7 @@ namespace Ch06_App
                 WriteLine($"{person.szName}");            
             }
             Array.Sort(people);
+            WriteLine("--------------------------");
             foreach(var person in people)
             {
                 WriteLine($"{person.szName}");            

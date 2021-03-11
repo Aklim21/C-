@@ -8,7 +8,7 @@ namespace Ch06_Library
     {
         public int CompareTo(Person other)
         {
-            throw new NotImplementedException();
+            return szName.CompareTo(other.szName);
         }
     }
 }
